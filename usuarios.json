@@ -1,0 +1,12 @@
+{
+  "usuariosRegistrados": [
+    {
+      "nombre": "STEVEN",
+      "apellido": "rosero",
+      "identificacion": "123123",
+      "edad": 23,
+      "correo": "steve@gmail.com",
+      "contraseña": "1112222111"
+    }
+  ]
+}
